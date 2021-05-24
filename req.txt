@@ -1,0 +1,11 @@
+webpack
+    babel
+    sass
+    eslint
+    2 modes
+        -dev
+            serv, sourcemaps, eslint, not min js css
+        -prod
+            minifide code
+        
+git
